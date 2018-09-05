@@ -4,5 +4,5 @@ Twitter Data Analysis
 ## Technologies:
 Python, Twitter API, Scala, Tableau
 
-#Description:
+## Description:
 A system to store, analyze and visualize tweets using principles of Big Data.
